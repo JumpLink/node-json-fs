@@ -1,4 +1,4 @@
 node-json-config
 ================
 
-Load and save your config file in json for Node.js
+extreme simple library for nodejs to load and save json-files. 
