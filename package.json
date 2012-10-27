@@ -1,9 +1,9 @@
 {
-  "name": "json-config",
-  "description": "Load and save your config file in json",
+  "name": "json-fs",
+  "description": "Load and save your json-files",
   "version": "0.0.1",
   "author": "Pascal Garber <pascal.garber@gmail.com>",
   "dependencies": {},
   "main": "index",
-  "repository": "git://github.com/JumpLink/node-json-config.git"
+  "repository": "git://github.com/JumpLink/node-json-fs.git"
 }
